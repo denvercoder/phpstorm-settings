@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="lorem" value="Lorem ipsum dolor sit amet, consectetur adipiscing elit, &#10;sed do eiusmod tempor incididunt ut labore et &#10;dolore magna aliqua. Velit egestas dui id ornare arcu. &#10;Eget sit amet tellus cras adipiscing enim eu turpis. &#10;Euismod elementum nisi quis eleifend quam. &#10;Congue mauris rhoncus aenean vel elit scelerisque mauris. &#10;Gravida arcu ac tortor dignissim convallis aenean. &#10;Aliquet bibendum enim facilisis gravida neque convallis. &#10;Tortor at risus viverra adipiscing at in &#10;tellus integer feugiat. Gravida dictum fusce ut &#10;placerat orci nulla pellentesque. &#10;Diam donec adipiscing tristique risus nec feugiat. &#10;Eget duis at tellus at urna &#10;condimentum mattis pellentesque. &#10;Volutpat sed cras ornare arcu dui vivamus &#10;arcu felis bibendum. Varius duis at consectetur &#10;lorem donec massa sapien." description="Lorem Ipsum 1 Paragraph" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b0c9ca5d-4bc9-495c-987b-0f8234229825" name="ExpertPress" url="http://us22.siteground.us">
+        <fileTransfer host="us22.siteground.us" port="21" rootFolder="/public_html/expertpress/prod">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="b90f9bc3-c6ce-4309-91f6-8235e6384df6" name="ExpertPressStaging" url="http://us22.siteground.us">
+        <fileTransfer host="us22.siteground.us" port="21" rootFolder="/public_html/expertpress/staging">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

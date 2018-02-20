@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="php" value="&lt;?php $END$ ?&gt;" description="PHP Open and close tags" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
